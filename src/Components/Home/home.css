@@ -1,0 +1,11 @@
+main div {
+
+    background: rgb(red, green, blue);
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    color: white;
+    justify-content: center;
+    align-items: center
+}
+
